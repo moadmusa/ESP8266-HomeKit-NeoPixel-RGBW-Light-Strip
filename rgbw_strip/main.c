@@ -46,7 +46,7 @@
 
 #define LED_ON 0                // this is the value to write to GPIO for led on (0 = GPIO low)
 #define LED_INBUILT_GPIO 2      // this is the onboard LED used to show on/off only
-#define LED_COUNT 15            // this is the number of WS2812B leds on the strip
+#define LED_COUNT 35           // this is the number of WS2812B leds on the strip
 #define LED_RGBW_SCALE 255       // this is the scaling factor used for color conversion
 
 // Global variables
